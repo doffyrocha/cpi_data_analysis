@@ -1,7 +1,5 @@
 # JGP Macro Data Scientist Test
 
-Este repositório contém a solução para o processo seletivo de estágio de Cientista de Dados da JGP Macro.
-
 ## Estrutura do Repositório
 
 - `fetch_cpi_data.py`: Script para buscar dados de CPI da API do BLS e salvar em um arquivo CSV.
